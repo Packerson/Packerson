@@ -8,11 +8,11 @@ My goal is to make use of these competences in a new field.
 
 
 
-- 🌱 I’m currently learning Python, Flask, Django, postgreSQL
+- 🌱 I’m currently learning Python, django rest framework, React
 - 💞️ I’m looking to collaborate as python developer or work with databases
 -    I'm interested chess, jogging and bushcraft
 - 📫 How to reach me : pawe.91.kaczmarek@gmail.com or by Github or https://www.linkedin.com/in/pawe%C5%82-kaczmarek-09a53717b/
-- CodeWars: https://www.codewars.com/users/Packerson
+
 
 <!---
 Packerson/Packerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
